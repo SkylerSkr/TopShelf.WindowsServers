@@ -1,0 +1,13 @@
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\TopShelf.Job.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\TopShelf.Job.pdb
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\Service.Mail.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\Service.MQ.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\obj\Debug\TopShelf.Job.csprojAssemblyReference.cache
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\obj\Debug\TopShelf.Job.csproj.CoreCompileInputs.cache
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\obj\Debug\TopShelf.Job.csproj.CopyComplete
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\obj\Debug\TopShelf.Job.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\obj\Debug\TopShelf.Job.pdb
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\EasyNetQ.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\RabbitMQ.Client.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.Job\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll

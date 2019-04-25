@@ -1,0 +1,17 @@
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\TopShelf.SendMailServer.exe.config
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\TopShelf.SendMailServer.exe
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\TopShelf.SendMailServer.pdb
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\Topshelf.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\TopShelf.Job.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\Service.Mail.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\Service.MQ.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\TopShelf.Job.pdb
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\obj\Debug\TopShelf.SendMailServer.csprojAssemblyReference.cache
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\obj\Debug\TopShelf.SendMailServer.csproj.CoreCompileInputs.cache
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\obj\Debug\TopShelf.SendMailServer.csproj.CopyComplete
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\obj\Debug\TopShelf.SendMailServer.exe
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\obj\Debug\TopShelf.SendMailServer.pdb
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\EasyNetQ.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\10563\Desktop\TopShelf.WindowsServers\TopShelf.SendMailServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
